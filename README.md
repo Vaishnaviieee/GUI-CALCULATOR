@@ -1,2 +1,2 @@
 # CodSoftTask3
-Calculator using HTML and CSS
+Calculator using HTML,CSS and JavaScript
