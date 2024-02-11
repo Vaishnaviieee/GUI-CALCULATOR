@@ -1,2 +1,2 @@
-# CodSoftTask3
+#GUI Calculaot
 Calculator using HTML,CSS and JavaScript
